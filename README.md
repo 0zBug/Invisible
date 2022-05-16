@@ -1,5 +1,5 @@
 # Invisible
-**A simple module to encode messages with invisible zero-width characters**
+**A simple module to encode messages with invisible zero-width characters.**
 # Documentation
 ### Encode
 **Encodes the text into invisible characters**
