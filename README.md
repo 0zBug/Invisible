@@ -11,6 +11,16 @@
 ```html
 <string> Invisible.Decode(<string> Message)
 ```
+### Encrypt
+**Encrypts the text into invisible characters with a key**
+```html
+<string> Invisible.Encrypt(<string> Message, <string> Key)
+```
+### Decrypt
+**Decrypts encrypted invisible messages with a key**
+```html
+<string> Invisible.Decrypt(<string> Message, <string> Key)
+```
 # Example
 ```lua
 local Hello = "Hello, World!"
